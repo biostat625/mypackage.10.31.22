@@ -7,3 +7,4 @@
   <!-- badges: start -->
   [![Coveralls test coverage](https://coveralls.io/repos/github/biostat625/mypackage.10.31.22/badge.svg)](https://coveralls.io/r/biostat625/mypackage.10.31.22?branch=master)
   <!-- badges: end -->
+ 
